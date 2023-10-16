@@ -1,3 +1,0 @@
-# AUTOLANCER
-opa
-ola
